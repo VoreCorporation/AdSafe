@@ -205,3 +205,23 @@ var Parameter = Class({
         return false;
 	}
 });
+
+var BtnStatus = Class ({
+	constructor: function(btn, htmldefault, htmldisabled){
+		this.btn = btn;
+		this.htmldefault = htmldefault;
+		this.htmldisabled = htmldisabled;
+	},
+
+	btndefault: function(){
+		$(this.btn).html(this.htmldefault);
+		$(this.btn).removeAttr("disabled");
+		$(this.btn).removeClass("disabled");
+	},
+
+	btndisabled: function(){
+		$(this.btn).html(this.htmldisabled);
+		$(this.btn).attr("disabled", "disabled");
+		$(this.btn).addClass("disabled");
+	}
+});
