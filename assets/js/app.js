@@ -150,7 +150,6 @@ var Session = Class({
 		vm.data = "";
 		vm.days = -1;
 		vm.create();
-		window.location = '/';
 	}
 });
 
