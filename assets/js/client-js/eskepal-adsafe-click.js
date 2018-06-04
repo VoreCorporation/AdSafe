@@ -1,6 +1,6 @@
 //<![CDATA[
 var sconfig = {
-    safepage_url: "http://eskepal.adsafe.click/p/skip.html?hash=",
+    safepage_url: "http://landing.adsafe.click/p/eskepal-adsafe-click.html?hash=",
     prtoect_link: ""
 }
 
