@@ -1,6 +1,6 @@
 //<![CDATA[
 var sconfig = {
-    safepage_url: "http://anu.jalan.pw/p/skip.html?hash=",
+    safepage_url: "http://redirect.adsafe.click/p/anu-jalan-pw.html?hash=",
     prtoect_link: ""
 }
 
