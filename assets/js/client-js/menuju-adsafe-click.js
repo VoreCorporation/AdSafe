@@ -1,6 +1,6 @@
 //<![CDATA[
 var sconfig = {
-    safepage_url: "http://landing.adsafe.click/p/menuju-adsafe-click.html?hash=",
+    safepage_url: "http://redirect.adsafe.click/p/menuju-adsafe-click.html?hash=",
     prtoect_link: ""
 }
 
